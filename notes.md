@@ -280,13 +280,13 @@ switch {
 
 > Unlike C, Go has no pointer arithmetic
 
-    ```go 
-    i := 42
-    p := &i
+```go
+i := 42
+p := &i
 
-    fmt.Println(*p) // read i through the pointer p
-    *p = 21         // set i through the pointer p
-    ```
+fmt.Println(*p) // read i through the pointer p
+*p = 21         // set i through the pointer p
+```
 
 2. `Struct`  
 * Collection of fields  
