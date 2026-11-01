@@ -824,3 +824,28 @@ In Abs {30 40}
             In general, all methods on a given type should have either value or pointer receivers, but not a mixture of both
 
 5. `Interfaces`  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----
+## Lastly
+
+### Highly Recommended Pre-Training Reading
+
+The Go training material for this course assumes you have understanding of data files and data streams. To refresh your understanding of these items, Go SMRs suggest you read the following material:
+
+[Victoria Metrics Blog Post: Go Readers, Writers, and Data in Motion](https://victoriametrics.com/blog/go-io-reader-writer/)
+[Victoria Metrics Blog Post: I/O Closer, Seeker, WriterTo, and ReaderFrom](https://victoriametrics.com/blog/go-io-closer-seeker-readfrom-writeto/index.html)
+[The Go Blog: Strings, bytes, runes and characters in Go](https://go.dev/blog/strings)
